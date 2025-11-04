@@ -3,7 +3,7 @@
     <channel>
         <title>CanalRssMotoGP99</title>
         <link>https://www.marca.com/motor/motogp.html</link>
-        <atom:link href="[PON AQUI LA URL COMPLETA DE TU ARCHIVO XML DE GITHUB]" rel="self" type="application/rss+xml" />
+        <atom:link href="https://raugonzalez.github.io/Proyectorss1/CanalRssMotoGP99.xml" rel="self" type="application/rss+xml" />
         <description>noticias actuales de MotoGP</description>
         <language>es-es</language>
         <pubDate>Mon, 03 Nov 2025 04:25:00 +0100</pubDate>
@@ -33,4 +33,5 @@
             <guid isPermaLink="true">https://www.marca.com/motor/motogp/gp-portugal/2025/11/03/horarios-gp-portugal-motogp-fechas-ver-carreras-portimao.html</guid>
         </item>
     </channel>
+
 </rss>
