@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>CanalRssMotoGP99</title>
+        <link>https://www.marca.com/motor/motogp.html</link>
+        <atom:link href="[PON AQUI LA URL COMPLETA DE TU ARCHIVO XML DE GITHUB]" rel="self" type="application/rss+xml" />
+        <description>noticias actuales de MotoGP</description>
+        <language>es-es</language>
+        <pubDate>Mon, 03 Nov 2025 04:25:00 +0100</pubDate>
+        <lastBuildDate>Tue, 04 Nov 2025 04:27:00 +0100</lastBuildDate>
+
+        <item>
+            <title>Marc Márquez querría ser Dall'Igna y Bagnaia se decanta por Tardozzi... o Ezpeleta</title>
+            <link>https://www.marca.com/motor/motogp/gp-portugal/2025/11/03/marc-marquez-querria-dall-igna-bagnaia-decanta-tardozzi-ezpeleta.html</link>
+            <description>MotoGp hace encuesta a pilotos para saber que trabajo les gustaria tener en el paddock.</description>
+            <pubDate>Mon, 03 Nov 2025 15:57:00 +0100</pubDate>
+            <guid isPermaLink="true">https://www.marca.com/motor/motogp/gp-portugal/2025/11/03/marc-marquez-querria-dall-igna-bagnaia-decanta-tardozzi-ezpeleta.html</guid>
+        </item>
+
+        <item>
+            <title>Dettwiler está consciente y sale de la UCI, aunque necesitará otra operación</title>
+            <link>https://www.marca.com/motor/motogp/2025/10/31/dettwiler-consciente-sale-uci-necesitara-operacion.html</link>
+            <description>El piloto Dettwiller mejora tras su accidente.</description>
+            <pubDate>Fri, 31 Oct 2025 17:44:00 +0100</pubDate>
+            <guid isPermaLink="true">https://www.marca.com/motor/motogp/2025/10/31/dettwiler-consciente-sale-uci-necesitara-operacion.html</guid>
+        </item>
+
+        <item>
+            <title>Horarios del GP de Portugal de MotoGP: fechas y dónde ver las carreras de Portimao</title>
+            <link>https://www.marca.com/motor/motogp/gp-portugal/2025/11/03/horarios-gp-portugal-motogp-fechas-ver-carreras-portimao.html</link>
+            <description>Proxima carrera en autodromo do algarve en portugal,horarios y donde verla.</description>
+            <pubDate>Mon, 03 Nov 2025 08:17:00 +0100</pubDate>
+            <guid isPermaLink="true">https://www.marca.com/motor/motogp/gp-portugal/2025/11/03/horarios-gp-portugal-motogp-fechas-ver-carreras-portimao.html</guid>
+        </item>
+    </channel>
+</rss>
