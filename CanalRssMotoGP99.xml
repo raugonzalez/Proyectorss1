@@ -3,7 +3,7 @@
     <channel>
         <title>CanalRssMotoGP99</title>
         <link>https://www.marca.com/motor/motogp.html</link>
-        <atom:link href="https://raugonzalez.github.io/Proyectorss1/CanalRssMotoGP99.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://raugonzalez.github.io/Proyectorss1/" rel="self" type="application/rss+xml" />
         <description>noticias actuales de MotoGP</description>
         <language>es-es</language>
         <pubDate>Mon, 03 Nov 2025 04:25:00 +0100</pubDate>
@@ -34,4 +34,5 @@
         </item>
     </channel>
 </rss>
+
 
